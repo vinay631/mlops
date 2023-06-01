@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/yl5933/Projects/learning/mlops-zoomcamp/cohorts/2023/02-experiment-tracking/homework/mlruns/0/e44525a006764bbaac6e2a7a42335954/artifacts
+end_time: 1685641317747
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e44525a006764bbaac6e2a7a42335954
+run_name: adorable-rat-893
+run_uuid: e44525a006764bbaac6e2a7a42335954
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685641310960
+status: 3
+tags: []
+user_id: yl5933
